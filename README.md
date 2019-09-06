@@ -1,2 +1,2 @@
 # git-github
-This repository has been created for learning purposes
+This repository has been created for learning purposes.
